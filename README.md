@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Advanced Laravel patterns and React 
 - 📫 How to reach me rizky.norafandi.893@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under 3 minutes!
 
 <!---
